@@ -5,7 +5,7 @@
 ## What I Do
 
 🔗 **Blockchain** — Solidity, Hardhat, Foundry, ERC20/721/1155, DeFi protocols, NFT ecosystems  
-⚙️ **Backend** — Node.js, NestJS, Express, TypeScript, PostgreSQL, MongoDB, Redis  
+⚙️ **Backend** — Go, Node.js, NestJS, Express, TypeScript, PostgreSQL, MongoDB, Redis  
 🌐 **Web3 Integration** — Ethers.js, Viem, Wagmi, multi-chain deployments (Ethereum, Polygon, Base, Arbitrum)  
 🚀 **Infrastructure** — Docker, CI/CD, RabbitMQ, microservices architecture
 
@@ -28,7 +28,7 @@
 ## Tech Stack
 
 ```
-Solidity • TypeScript • Node.js • NestJS • React • Next.js
+Solidity • Go • TypeScript • Node.js • NestJS • React • Next.js
 PostgreSQL • MongoDB • Redis • RabbitMQ
 Hardhat • Foundry • Ethers.js • Viem • Wagmi
 Docker • GitHub Actions • AWS
