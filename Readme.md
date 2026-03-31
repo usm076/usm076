@@ -4,7 +4,7 @@
 
 ## What I Do
 
-🔗 **Blockchain** — Solidity, Hardhat, Foundry, ERC20/721/1155, DeFi protocols, NFT ecosystems  
+🔗 **Blockchain** — Solidity, Hardhat, Foundry, ERC20/721/1155/3643, DeFi protocols, RWA, NFT ecosystems  
 ⚙️ **Backend** — Go, Node.js, NestJS, Express, TypeScript, PostgreSQL, MongoDB, Redis  
 🌐 **Web3 Integration** — Ethers.js, Viem, Wagmi, multi-chain deployments (Ethereum, Polygon, Base, Arbitrum)  
 🚀 **Infrastructure** — Docker, CI/CD, RabbitMQ, microservices architecture
